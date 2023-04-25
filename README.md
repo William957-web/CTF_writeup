@@ -1,6 +1,6 @@
 # CTF_writeup
 一隻鯨魚的ctf紀錄  
-目前算是初階，Web和Cryptography比較有涉獵  
+目前算是興趣(主力還是數學，fighting!!!)，Web和Cryptography比較有涉獵  
 有練習過picoCTF以及Hacker101CTF  
 ## 紀錄
 [picoCTF](picoCTF/README.md)
