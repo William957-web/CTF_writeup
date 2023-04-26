@@ -3,7 +3,7 @@
 目前算是興趣(主力還是數學，fighting!!!)，Web和Cryptography比較有涉獵  
 有練習過picoCTF以及Hacker101CTF  
 ## 紀錄
-[Web](web/README.md)  
+[Web](Web/README.md)  
 [Cryptography](Cryptography/README.md)  
 ## Handle
 [picoCTF](https://play.picoctf.org/users/Whale120)  
