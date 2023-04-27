@@ -1,5 +1,5 @@
 # WEB
-[Gerneral Skills](https://github.com/William957-web/CTF_writeup/tree/main/Web/Gerneral-Skills)  
+[General Skills](https://github.com/William957-web/CTF_writeup/tree/main/Web/General-Skills)  
 [SQL injection](SQLI)  
 [XSS](XSS)   
 [JavaScript](JS)  
