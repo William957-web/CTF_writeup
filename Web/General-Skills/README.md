@@ -4,7 +4,7 @@
 **robots.txt:** 用於告訴爬蟲機器人哪些檔案室不可檢索的(像是Google BOT不會把你網站的管理頁面放在網路上讓大家看的到)     
 **sitemap.xml:** 一份你網站有哪些地址的清單     
 **/.htaccess:** 用於更改伺服器組態的檔案  
-**/.DS_Store:** 放在MAC處理檔案得東西  
+**/.DC_Store:** 放在MAC處理檔案得東西  
 ### 例題
 #### picoCTF 2021 Scavenger Hunt
 http://mercury.picoctf.net:5080/  
